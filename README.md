@@ -10,11 +10,11 @@
 
 :rocket: Estudando também desenvolvimento web com as tecnologias:
 
-[HTML]
-[CSS]
-[JAVASCRIPT]
-[REACT]
-[NODEJS]
+-[HTML]
+-[CSS]
+-[JAVASCRIPT]
+-[REACT]
+-[NODEJS]
 <!--
 **luiz-gustavo0/luiz-gustavo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
