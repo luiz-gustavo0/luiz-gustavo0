@@ -10,15 +10,15 @@
 
 :rocket: Estudando também desenvolvimento web com as tecnologias:
 
-:pushpin: [HTML]
+:pushpin: HTML
 
-:pushpin: [CSS]
+:pushpin: CSS
 
-:pushpin: [JAVASCRIPT]
+:pushpin: JAVASCRIPT
 
-:pushpin: [REACT]
+:pushpin: REACT
 
-:pushpin: [NODEJS]
+:pushpin: NODEJS
 <!--
 **luiz-gustavo0/luiz-gustavo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
