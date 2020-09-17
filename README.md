@@ -6,7 +6,7 @@
 
 ### Sobre
 
-:boom: Cursando análise e desenvolvimento de sistemas.
+:boom: Cursando Análise e Desenvolvimento de Sistemas.
 
 :rocket: Estudando também desenvolvimento web com as tecnologias:
 
