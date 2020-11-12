@@ -1,11 +1,9 @@
-## Sobre
-
-:boom: Estudante de Análise e Desenvolvimento de Sistemas.
-
 ## Contato
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-gustavo-santos-2a10ab196/)](https://www.linkedin.com/in/luiz-gustavo-santos-2a10ab196/)
 [![Gmail Badge](https://img.shields.io/badge/-santosluizgustavo101@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=malito:santosluizgustavo101@gmail.com)](malito:santosluizgustavo101@gmail.com)
+
+## GitHub Stats
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luiz-gustavo0&theme=dark&show_icons=true)
 
