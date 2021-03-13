@@ -2,7 +2,7 @@
 
 
 ### 👋🏿 Olá!
-Me chamo Luiz Gustavo Santos, apaixonado por tecnologia e desenvolvimento de software.
+Me chamo Luiz Gustavo Santos, um apaixonado por tecnologia e desenvolvimento de software.
 
 Estou cursando Análise e Desenvolvimento de Sistemas, e também venho estudando desenvolvimento web com foco no front-end.
 
