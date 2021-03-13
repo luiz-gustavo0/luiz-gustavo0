@@ -6,7 +6,7 @@ Me chamo Luiz Gustavo Santos, apaixonado por tecnologia e desenvolvimento de sof
 
 Estou cursando Análise e Desenvolvimento de Sistemas, e também venho estudando desenvolvimento web com foco no front-end.
 
-### Tecnologias
+### 🔨 Tecnologias
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-222?style=flat-square&logo=Javascript&logoColor=#F7DF1E&link=https://github.com/luiz-gustavo0)](https://github.com/luiz-gustavo0)
 [![React Badge](https://img.shields.io/badge/-React-222?style=flat-square&logo=React&logoColor=#61DAFB&link=https://github.com/luiz-gustavo0)](https://github.com/luiz-gustavo0)
@@ -30,8 +30,6 @@ Estou cursando Análise e Desenvolvimento de Sistemas, e também venho estudando
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
   
 </p> 
-
-### Estatisticas do gitHub 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luiz-gustavo0&theme=dark&show_icons=true)
 
