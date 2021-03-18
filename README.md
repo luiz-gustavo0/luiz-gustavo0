@@ -31,7 +31,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas, e também estudando desen
   
 </p> 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luiz-gustavo0&theme=dark&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luiz-gustavo0&theme=ligth&show_icons=true)
 
 
 
