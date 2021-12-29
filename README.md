@@ -27,11 +27,13 @@
      <b>GITHUB STATS</b> 
     </summary>
   <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luiz-gustavo0&show_icons=true&locale=en&layout=compact" alt="luiz-gustavo0" /></p>
+  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luiz-gustavo0&show_icons=true&locale=en" alt="luiz-gustavo0" /></p>
+<span><img align="left" width='45%' height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=luiz-gustavo0&show_icons=true&locale=en&layout=compact" alt="luiz-gustavo0" /></span>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luiz-gustavo0&" alt="luiz-gustavo0" /></p>
+<span><img align="right" width='45%' height="200" src="https://github-readme-stats.vercel.app/api?username=luiz-gustavo0&show_icons=true&locale=en" alt="luiz-gustavo0" /></span>
+
+<!-- <p><img align="center" width="30" height="30" src="https://github-readme-streak-stats.herokuapp.com/?user=luiz-gustavo0&" alt="luiz-gustavo0" /></p> -->
 </details>
 
 
