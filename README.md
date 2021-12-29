@@ -1,37 +1,41 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"/>
+## Hi there 👋
+
+### I'm Frontend Developer.
+
+#### ABOUT ME
+
+- 🔭 I’m currently working on **My portfolio website**
+
+- 🌱 I’m currently learning **JavaScript, ReactJS and React-Native**
+
+- 👯 I’m looking to collaborate on **Open source projects**
+
+- 👨‍💻 All of my projects are available at [https://luizgustavosantos.com.br/](https://luizgustavosantos.com.br/)
+
+- 💬 Ask me about **Tecnology, Web Development and anything...**
+
+- 📫 How to reach me: [https://linkedin.com/in/luiz-gustavo0](https://linkedin.com/in/luiz-gustavo0)
+
+- ⚡ Fun fact: **I love dogs**
 
 
-### 👋🏿 Olá!
-Eu sou Luiz Gustavo Santos, um apaixonado por tecnologia e desenvolvimento de software.
+<!-- #### LANGUAGES AND TOOLS
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<br> -->
+<details>
+  <summary >
+     <b>GITHUB STATS</b> 
+    </summary>
+  <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luiz-gustavo0&show_icons=true&locale=en&layout=compact" alt="luiz-gustavo0" /></p>
 
-Estou cursando Análise e Desenvolvimento de Sistemas, e também estudando desenvolvimento web com foco no front-end.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luiz-gustavo0&show_icons=true&locale=en" alt="luiz-gustavo0" /></p>
 
-### 🔨 Tecnologias
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luiz-gustavo0&" alt="luiz-gustavo0" /></p>
+</details>
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-222?style=flat-square&logo=Javascript&logoColor=#F7DF1E&link=https://github.com/luiz-gustavo0)](https://github.com/luiz-gustavo0)
-[![React Badge](https://img.shields.io/badge/-React-222?style=flat-square&logo=React&logoColor=#61DAFB&link=https://github.com/luiz-gustavo0)](https://github.com/luiz-gustavo0)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-222?style=flat-square&logo=Node.js&logoColor=#61DAFB&link=https://github.com/luiz-gustavo0)](https://github.com/luiz-gustavo0)
-[![Css Badge](https://img.shields.io/badge/-Css3-blue?style=flat-square&logo=Css3&logoColor=white&link=https://github.com/luiz-gustavo0)](https://github.com/luiz-gustavo0)
-[![Html Badge](https://img.shields.io/badge/-Html5-orange?style=flat-square&logo=html5&logoColor=white&link=https://github.com/luiz-gustavo0)](https://github.com/luiz-gustavo0)
-[![Npm Badge](https://img.shields.io/badge/-Npm-000?style=flat-square&logo=npm&logoColor=#CB3837&link=https://github.com/luiz-gustavo0)](https://github.com/luiz-gustavo0)
-[![Git Badge](https://img.shields.io/badge/-Git-000?style=flat-square&logo=Git&logoColor=#F05032&link=https://github.com/luiz-gustavo0)](https://github.com/luiz-gustavo0)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luiz-gustavo0)](https://github.com/luiz-gustavo0)
 
-### 💌 Contatos
 
-<p align="left">
-  <a href="mailto:santosluizgustavo101@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=santosluizgustavo101@gmail.com" /></a>
-
-  <a href="https://www.linkedin.com/in/luiz-gustavo0/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-gustavo0/" /></a>
-
-  <a href="https://api.whatsapp.com/send?phone=5535998787436" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-  
-</p> 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luiz-gustavo0&theme=ligth&show_icons=true)
 
 
 
