@@ -1,12 +1,12 @@
 ## Hi there 👋🏿
 
-### I'm Frontend Developer.
+### I'm Front-End Developer.
 
 #### ABOUT ME
 
 - 🔭 I’m currently working on **My portfolio website**
 
-- 🌱 I’m currently learning **JavaScript, ReactJS and React-Native**
+- 🌱 I’m currently learning **JavaScript, ReactJS and React Native**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
